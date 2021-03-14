@@ -13,3 +13,5 @@ STEP 5: Now copy the whole API keys object and then in this repo go to src > com
 STEP 6: Now in the root directory, run the command: npm i (to install all the project packages and dependencies).
 
 STEP 7: Now the chatbot chat console is ready. Now you just need the Dashboard to control the bot (which is in the "admin-panel-ym" repo).
+
+#NOTE: The API keys must be same for the Chatbot and the Dashboard. You need to create the new app in Firebase only ONCE. Then use the same API keys in both.
